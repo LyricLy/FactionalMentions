@@ -1,0 +1,11 @@
+{
+    "HarmonyId": "lyricly.factionalmentions",
+    "DisplayName": "Factional Mentions",
+    "Authors": [
+      "LyricLy"
+    ],
+    "Description": "Mention roles with different factions using the standard UI. No more memorizing IDs!",
+    "Version": "1.2.0",
+    "RequiredMods": [],
+    "Settings": {}
+}
